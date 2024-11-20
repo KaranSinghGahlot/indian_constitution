@@ -6,3 +6,4 @@
 !pip install llama-index-embeddings-gemini
 !pip install llama-index-vector-stores-pinecone
 !pip install llama-index-readers-file
+!pip install llama-index-llms-openai
