@@ -37,7 +37,7 @@ print(index_description)
 
 from llama_index.core import SimpleDirectoryReader
 
-documents = SimpleDirectoryReader("/content/data").load_data()
+documents = SimpleDirectoryReader("data").load_data()
 
 pinecone_index=pinecone_client.Index("indianconstitutionai")
 # Create a PineconeVectorStore using the specified pinecone_index
