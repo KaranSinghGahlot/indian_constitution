@@ -1,9 +1,8 @@
-!pip install llama-index google-generativeai pinecone-client
-!pip install llama-index
-!pip install google-generativeai
-!pip install pinecone-client
-!pip install llama-index-llms-gemini
-!pip install llama-index-embeddings-gemini
-!pip install llama-index-vector-stores-pinecone
-!pip install llama-index-readers-file
-!pip install llama-index-llms-openai
+llama-index
+google-generativeai
+pinecone-client
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-pinecone
+llama-index-readers-file
+llama-index-llms-openai
